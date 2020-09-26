@@ -1,0 +1,22 @@
+{
+  "name": "nomadcoders_make_movieql",
+  "version": "1.0.0",
+  "description": "make movie api with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estimar2/nomadcoders_make_movieql.git"
+  },
+  "author": "song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estimar2/nomadcoders_make_movieql/issues"
+  },
+  "homepage": "https://github.com/estimar2/nomadcoders_make_movieql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
