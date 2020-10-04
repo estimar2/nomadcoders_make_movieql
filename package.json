@@ -19,6 +19,7 @@
   "homepage": "https://github.com/estimar2/nomadcoders_make_movieql#readme",
   "dependencies": {
     "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.4"
   },
   "devDependencies": {
